@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🤙
 
-<!--
-**luisnish/Luisnish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Luis Guilherme
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguangem JavaScript
+- Utilizo esse site para compartilhamento de arquivos e organização
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para entrar em contato comigo 📫
+    
+    miojogostoso580@gmail.com
+
+![]( https://media1.tenor.com/m/iL6tf-dTr-gAAAAd/aspas-valorant.gif)
